@@ -1,3 +1,4 @@
 i will add all docker file 
 my name imam
 add centos/7
+run apt-get update -y
